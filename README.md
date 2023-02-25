@@ -1,4 +1,6 @@
-### Hi there 👋
+## Deekshith Reddy Parupati
+
+As an aspiring data scientist, I am a Master's student in Business Analytics at the Mendoza College of Business, University of Notre Dame. Prior to this, I worked as a credit risk and policy manager and data analyst at IDFC Bank in India. I hold an MBA with a specialization in Finance and Operations from NITIE Mumbai, which is one of the top 10 business schools in India. My primary interest and skill set lies in extracting valuable insights from data and leveraging them to make informed business decisions. I am passionate about the field of data science and continuously work on improving my knowledge and expertise.
 
 <!--
 **prdeddy/prdeddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
